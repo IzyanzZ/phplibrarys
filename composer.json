@@ -7,6 +7,7 @@
             "Izyanz\\Phplibrarys\\": "src/"
         }
     },
+    "version": "1.0.1",
     "authors": [
         {
             "name": "IzyanzZ",
@@ -14,5 +15,7 @@
         }
     ],
     "minimum-stability": "stable",
-    "require": {}
+    "require": {
+        "izyanz/phplibrarys": "^1.0.1"
+    }
 }
