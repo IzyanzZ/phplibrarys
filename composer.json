@@ -15,7 +15,5 @@
         }
     ],
     "minimum-stability": "stable",
-    "require": {
-        "izyanz/phplibrarys": "^1.0.1"
-    }
+    "require": {}
 }
